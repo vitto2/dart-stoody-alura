@@ -8,7 +8,7 @@ main() {
     'Mia',
     'Ethan',
     'Ava',
-    'Benjamin',
+    'Benjamin'
     'Charlotte',
     'Alexander'
   ];
